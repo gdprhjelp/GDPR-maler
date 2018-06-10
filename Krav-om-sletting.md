@@ -8,7 +8,7 @@ Etter en gjennomgang av dataene jeg er gitt innsyn i, som dere behandler, krever
 
 [Her skriver du hvilke data du vil ha slettet]
 
-Jeg mener overnevnte opplysningr om meg ikke lenger er nødvendige å lagre for å oppnå formålet med databehandlingen og trekker mitt samtykke til at dere behandler dataene. Det bes om en endelig bekreftelse når dette er gjort.
+Jeg mener overnevnte opplysninger om meg ikke lenger er nødvendige å lagre for å oppnå formålet med databehandlingen og trekker mitt samtykke til at dere behandler dataene. Det bes om en endelig bekreftelse når dataene er slettet.
 
 Dersom dere har utlevert opplysninger om meg til tredjeparter, bes det om at dere kontakter og anmoder tredjepartene om sletting. Det bes om kopi av deres korrespondanse med tredjepartene om dette.
 
