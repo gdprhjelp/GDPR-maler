@@ -2,6 +2,12 @@
 
 Bruk disse malene for å be om en kopi av dine opplysninger eller sletting av disse. Tilpass gjerne slik du ønsker.
 
+# Vent til sensommeren 2018 med å kreve innsyn hos norske bedrifter
+
+Da loven ikke er i kraft ennå i Norge, bør du enten vente til den er det, eller kreve innsyn etter bestemmelsen i den nåværende personopplysningsloven. Datatilsynet [har mer informasjon](https://www.datatilsynet.no/samfunnsomrader/overordnet-om-rettigheter-og-plikter/innsynsrett/) om hvordan du kan kreve innsyn. Hovedforskjellen mellom nåværende regelverk og det som kommer er en moderisering av retten til informasjon om hvordan dine opplysninger brukes samt en utvidet rett til sletting.
+
+Du kan allkevel starte allerede nå med å be om innsyn etter GDPR-bestemmelsene hos større utenlandske foretak som Google, Apple og Facebook, med de [engelske malene](https://github.com/gdpraid/GDPR-Claim-Templates).
+
 # Foreslått bruk
 
 Som regel er det best å først be om utlevering av dine opplysninger. Når du har gjennomgått det du mottar, kan du be om sletting av det du mener det ikke er noen grunn til å lagre. Du kan sende disse kravene i vanlig post eller epost. Jeg anbefaler å sende dem med vanlig post og at du legger ved en kopi av passet ditt samt opplysninger som kan hjelpe med å identifisere ditt kundeforhold, som epostadresser, tidligere og nåværende telefonnummer o.l. Dersom du er trygg på at bedriften eller den offentlige institusjonen du henvender deg til vil gi kravet en skikkelig behandling, kan du vurdere å bruke de kombinerte kravene.
