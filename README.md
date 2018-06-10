@@ -1,4 +1,4 @@
-# GDPR-maler for å be om kopi eller sletting av dine opplysninger
+# GDPR-maler for å be om kopi eller sletting opplysninger
 
 Bruk disse malene for å be om en kopi av dine opplysninger eller sletting av disse. Tilpass gjerne slik du ønsker.
 
