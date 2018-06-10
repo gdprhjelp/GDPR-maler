@@ -32,6 +32,10 @@ Inkluder dette dersom du også ønsker informasjon om sporing på nett.
 ***Klage-til-Datatilsynet.md***<br/>
 Dersom du ikke er fornøyd med svaret du får, kan du klage til Datatilsynet.
 
+# Krav til utenlandske bedrifter
+
+Dersom du ønsker å sende krav til Google, Facebook eller Apple kan du gjøre dette med tilsvarende [maler på engelsk](https://github.com/gdpraid/GDPR-Claim-Templates).
+
 # Datapakker og tidligere kundeforhold
 
 Det er vanligvis best å sende et manuelt krav i stedet for eller i tillegg til å laste ned en datapakke, da slike datapakker gjerne ikke inneholder alle opplysninger. Muligheten for å laste ned datapakke er som regel heller ikke tilstede dersom du ikke har en aktiv kundekonto, og du har fortsatt rett på kopi av dine opplysninger og rett til å kreve sletting dersom du ikke lenger er kunde.
