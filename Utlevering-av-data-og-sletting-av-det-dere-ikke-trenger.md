@@ -33,3 +33,5 @@ Det bes også om at dere opplyser hvilke data som ikke er slettet for å kunne o
 Det bes om at opplysningene sendes meg på en sikker måte, slik at denne henvendelsen ikke medfører ytterligere personvernkonsekvenser.
 
 Vennlig hilsen,
+
+[Ditt Navn]
