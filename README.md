@@ -10,7 +10,7 @@ Som regel er det best å først be om utlevering av dine opplysninger. Når du h
 
 Da loven ikke er i kraft ennå i Norge (den trer antakelig i kraft i juli eller august 2018) bør du enten vente til den er det, eller kreve innsyn etter bestemmelsen i den nåværende personopplysningsloven. Datatilsynet [har mer informasjon](https://www.datatilsynet.no/samfunnsomrader/overordnet-om-rettigheter-og-plikter/innsynsrett/) om hvordan du kan kreve innsyn. Hovedforskjellen mellom nåværende regelverk og det som kommer er en moderisering av retten til informasjon om hvordan dine opplysninger brukes samt en utvidet rett til sletting.
 
-Du kan allkevel starte allerede nå med å be om innsyn etter GDPR-bestemmelsene hos større utenlandske foretak som Google, Apple og Facebook, med de [engelske malene](https://github.com/gdpraid/GDPR-Claim-Templates).
+Du kan allkevel starte allerede nå med å be om innsyn etter GDPR-bestemmelsene hos større utenlandske foretak som Google, Apple og Facebook, med de [engelske malene](https://github.com/gdpraid/GDPR-Claim-Templates). Du kan også be norske bedrifter om egne opplysninger med henvisning til personopplysningsloven, og så bruke dette som grunnlag for krav om sletting når forordningen trer i kraft i Norge.
 
 # Malene, forklart
 
