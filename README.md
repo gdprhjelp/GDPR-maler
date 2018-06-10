@@ -8,21 +8,34 @@ Som regel er det best å først be om utlevering av dine opplysninger. Når du h
 
 # Malene, forklart
 
-***Be-om-dine-data.md***
+***Be-om-dine-data.md***<br/>
 Bruk denne for å be om en kopi av dine data og en forklaring på hvordan de brukes.
 
-***Krav-om-sletting.md***
+***Krav-om-sletting.md***<br/>
 Etter du har fått se dine data, kan du bruke denne for å be om sletting av data.
 
-***Krav-om-retting.md***
+***Krav-om-retting.md***<br/>
 Dersom du mener dataene om deg inneholder feil, kan du bruke denne for å be om retting.
 
-***Forespørsel-om-flytting.md***
+***Forespørsel-om-flytting.md***<br/>
 Ifølge personvernforordningen har du rett til å kreve dine data flyttet til en annen bedrift.
 
-***Utlevering-og-sletting-av-det-dere-ikke-trenger.md***
+***Utlevering-og-sletting-av-det-dere-ikke-trenger.md***<br/>
 Be om utlevering av dine data og sletting av det som er overflødig.
 
-***Utlevering-og-sletting-av-data.md***
+***Utlevering-og-sletting-av-data.md***<br/>
 Be om utlevering av dine data og at disse deretter slettes.
 
+***Tillegg-for-annonse-IDer.md***<br/>
+Inkluder dette dersom du også ønsker informasjon om sporing på nett.
+
+***Klage-til-Datatilsynet.md***<br/>
+Dersom du ikke er fornøyd med svaret du får, kan du klage til Datatilsynet.
+
+# Datapakker og tidligere kundeforhold
+
+Det er vanligvis best å sende et manuelt krav i stedet for eller i tillegg til å laste ned en datapakke, da slike datapakker gjerne ikke inneholder alle opplysninger. Muligheten for å laste ned datapakke er som regel heller ikke tilstede dersom du ikke har en aktiv kundekonto, og du har fortsatt rett på kopi av dine opplysninger og rett til å kreve sletting dersom du ikke lenger er kunde.
+
+# Ikke fornøyd med svaret du får?
+
+Da kan du klage til Datatilsynet, som også har [mer informasjon](https://www.datatilsynet.no/regelverk-og-skjema/nye-personvernregler/) om personvernforordningen. Du kan slå opp i forordningen i [Intersofts tilgjengelige utgave](https://gdpr-info.eu/) og det finnes også en [norsk oversettelse](https://www.datatilsynet.no/globalassets/global/regelverk-skjema/forordningen/uoffisiell-norsk-oversettelse-av-personvernforordningen.pdf).
