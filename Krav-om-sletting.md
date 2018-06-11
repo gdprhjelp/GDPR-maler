@@ -1,5 +1,7 @@
 **Krav om sletting i henhold til EUs personvernforordning (GDPR)**
 
+Kjære [Navn på firma eller organisasjon],
+
 I henhold til EU-forordningen som ble innlemmet i norsk lov [dato for innlemmelse] er borgerne gitt en rett til å kreve sletting av data om seg etter Artikkel 17.
 
 Etter en gjennomgang av dataene jeg er gitt innsyn i, som dere behandler, krever jeg følgende data slettet:
