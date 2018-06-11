@@ -26,9 +26,7 @@ Dersom dere ikke ønsker eller kan utlevere alle data det bes om, ber jeg om at 
 
 Det bes om at opplysningene sendes meg på en sikker måte, slik at denne henvendelsen ikke medfører ytterligere personvernkonsekvenser.
 
-Det forventer at min forespørsel besvares uten ugrunnet opphold og senest innen en måned, slik Artikkel 12 krever.
-
-Jeg ser frem til å få svar på min henvendelse.
+Jeg forventer at min forespørsel besvares uten ugrunnet opphold og senest innen en måned, slik Artikkel 12 krever.
 
 Vennlig hilsen,
 
