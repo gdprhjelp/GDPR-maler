@@ -1,12 +1,12 @@
 **Krav om utlevering av data og sletting i henhold til EUs personvernforordning (GDPR)**
 
-I henhold til personvernforordningen (GDPR) er borgerne gitt en rett til å kreve innsyn etter Artikkel 13, 14 og 15, retting av data etter Artikkel 16 og sletting av data om seg etter Artikkel 17.
+I henhold til personvernforordningen (GDPR) er borgerne gitt en rett til å kreve innsyn etter Artikkel 15 og sletting av data om seg etter Artikkel 17.
 
 Jeg er bekymret for at mine personopplysninger kan utsettes for risiko som følge av deres bedrift sine rutiner for databehandling, eller at dere allerede kan ha brutt deres forpliktelser i forhold til å beskytte mine data.
 
 Jeg forventer svar på henvendelsen innen en måned slik Artikkel 12 krever. Dersom jeg ikke får svar innen fristen, vil jeg vurdere å påklage saken til Datatilsynet. Det bemerkes at et behov for flere opplysninger ikke anses som en legitim grunn til å forlenge saksbehandlingen av kravet.
 
-I tråd med forordningens Artikkel 13, 14 og 15 krever jeg innsyn i alle data dere måtte besitte om meg.
+I tråd med forordningens Artikkel 15 krever jeg innsyn i alle data dere måtte besitte om meg.
 
 Jeg ber i tillegg om at dere opplyser om følgende, og særlig slik dette relaterer til mine data:
 
