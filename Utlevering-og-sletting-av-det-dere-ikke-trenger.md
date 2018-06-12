@@ -1,5 +1,7 @@
 **Krav om utlevering av data og sletting i henhold til EUs personvernforordning (GDPR)**
 
+Kjære [Navn på firma eller organisasjon],
+
 I henhold til personvernforordningen (GDPR) er borgerne gitt en rett til å kreve innsyn etter Artikkel 15 og sletting av data om seg etter Artikkel 17.
 
 Jeg er bekymret for at mine personopplysninger kan utsettes for risiko som følge av deres bedrift sine rutiner for databehandling, eller at dere allerede kan ha brutt deres forpliktelser i forhold til å beskytte mine data.
@@ -31,6 +33,8 @@ Dersom dere ikke ønsker å slette de data som bes slettet, ber jeg om at dette 
 Det bes også om at dere opplyser hvilke data som ikke er slettet for å kunne opprettholde mitt kundeforhold eller oppfylle rettslige forpliktelser, slik at jeg eventuelt kan klage på dette eller be om at de dataene dere beholder rettes, dersom dette synes nødvendig.
 
 Det bes om at opplysningene sendes meg på en sikker måte, slik at denne henvendelsen ikke medfører ytterligere personvernkonsekvenser.
+
+Jeg ser frem til å få svar på min henvendelse.
 
 Vennlig hilsen,
 
