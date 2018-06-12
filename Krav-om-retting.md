@@ -1,10 +1,10 @@
 **Krav om retting i henhold til EUs personvernforordning (GDPR)**
 
-I henhold til EU-forordningen som ble innlemmet i norsk lov [dato for innlemmelse] er borgerne gitt en rett til å kreve sletting av data om seg etter Artikkel 16.
+Kjære [Navn på firma eller organisasjon],
 
-Aller først vil jeg informere dere om at jeg forventer svar på henvendelsen innen en måned slik Artikkel 12 krever. Dersom jeg ikke får svar innen fristen, vil jeg påklage saken til Datatilsynet.
+Den europeiske personvernforordningen gir borgerne en rett til å kreve korreksjon av uriktige data etter Artikkel 16.
 
-Etter en gjennomgang av dataene jeg er gitt innsyn i, som dere behandler, krever jeg følgende data rettet:
+Etter en gjennomgang av dataene jeg er gitt innsyn i, som dere behandler, krever jeg følgende data korrigert:
 
 [Her skriver du hvilke data du vil ha rettet]
 
